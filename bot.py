@@ -89,10 +89,10 @@ def cout(update: Update, context: CallbackContext, course, sub, key):
 
 def addlist(update: Update, context: CallbackContext, key):
     keyboard = keyboards.keyboard[key]
-    if update.callback_query.message.chat.username == ADMIN:
-        if not ([InlineKeyboardButton("add stuff", callback_data="add_to")]) in keyboard:
-            keyboard.append([InlineKeyboardButton(
-                "add stuff", callback_data="add_to")])
+#    if update.callback_query.message.chat.username == ADMIN:
+#        if not ([InlineKeyboardButton("add stuff", callback_data="add_to")]) in keyboard:
+#            keyboard.append([InlineKeyboardButton(
+#                "add stuff", callback_data="add_to")])
 
     reply_markup = InlineKeyboardMarkup(keyboard)
 
