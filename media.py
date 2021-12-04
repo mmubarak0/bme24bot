@@ -220,7 +220,7 @@ course = {
                     "message":[
                     ],
                     "vid":[
-                        'BAACAgQAAxkBAAIEXGFd7dbCU3PLJRjp4KcHYEH0GtO1AALnCgACloroUkAO4_AlYgefIQQ',
+                        "BAACAgQAAxkBAAIEXGFd7dbCU3PLJRjp4KcHYEH0GtO1AALnCgACloroUkAO4_AlYgefIQQ",
                     ],
                     "doc":[
                         'BQACAgQAAxkBAAIDA2FaA8DZP4scok3ZKHS7JMG2m_vrAAL6CwACGHc4UnrCTf6U1VdAIQQ',
