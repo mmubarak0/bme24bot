@@ -220,16 +220,15 @@ course = {
                     "message":[
                     ],
                     "vid":[
-                        'BAACAgQAAxkBAAIEXGFd7dbCU3PLJRjp4KcHYEH0GtO1AALnCgACloroUkAO4_AlYgefIQQ',
-                        "BAACAgQAAxkBAAIWUWFpGjZ9xvBrAkbu41R14xOI5h-9AALnCgACloroUkAO4_AlYgefIQQ"
+                        "BAACAgQAAxkBAAIEXGFd7dbCU3PLJRjp4KcHYEH0GtO1AALnCgACloroUkAO4_AlYgefIQQ",
                     ],
                     "doc":[
                         'BQACAgQAAxkBAAIDA2FaA8DZP4scok3ZKHS7JMG2m_vrAAL6CwACGHc4UnrCTf6U1VdAIQQ',
                         'BQACAgQAAxkBAAIDBGFaA8CWwttT80B087W5LdfQwyNtAAJ2CAACishwUtLYb_PTz7NvIQQ',
                         'BQACAgQAAxkBAAIDBWFaA8ClkGouWFsJ1g-qf1wYqY_yAAJ1CAACishwUvpX907bZu5yIQQ',
-                        "BQACAgQAAxkBAAIY6mFxTfBkBGvEvMVhisI9v6kvHdXOAAIGDQACLhuQUyunMGrxzqxRIQQ",
+                        "BQACAgQAAxkBAAIY7GFxTfBhZVtyjiyuGPD7agVFf7KZAAIODQACLhuQUwhvJ6GnyakhIQQ",
                         "BQACAgQAAxkBAAIY62FxTfCKjvwhho3zttmC_yjtzQJ6AAIIDQACLhuQUz3pI31KraQ5IQQ",
-                        "BQACAgQAAxkBAAIY7GFxTfBhZVtyjiyuGPD7agVFf7KZAAIODQACLhuQUwhvJ6GnyakhIQQ"
+                        "BQACAgQAAxkBAAIY6mFxTfBkBGvEvMVhisI9v6kvHdXOAAIGDQACLhuQUyunMGrxzqxRIQQ"
                     ],
                     "photo":[
                     ],
@@ -259,15 +258,15 @@ course = {
                     "vid":[
                     ],
                     "doc":[
-                        'BQACAgQAAxkBAAIDCWFaBNE331j_1NtF01XdpNqn9qbHAALqCwACMO9ZUmA1eG8KVsn9IQQ',
-                        'BQACAgQAAxkBAAIDCmFaBNGBZx1kjW-5C-EtfOS7iacTAAL-CwACMO9ZUsArkOfyYXnRIQQ',
-                        'BQACAgQAAxkBAAIDC2FaBNEPnuzV0T5KEHR05UZca6VvAAKNCAACMO9hUhMAAUWwuYq0zCEE',
-                        'BQACAgQAAxkBAAIEX2Fd7gef0Ktlv4Sldyml_JpS6sJhAALoCgACloroUox47zAloejBIQQ',
-                        "BQACAgQAAxkBAAIWi2FpHFh6nlgtL-PX_XHuDgcOjifJAALgCgACdC9AU2b6Tiki0Wz4IQQ",
-                        "BQACAgQAAxkBAAIWjGFpHFh_qKtsSWcYAz4FATL6ENocAALfCgACdC9AU8srpyG5-NW8IQQ",
-                        "BQACAgQAAxkBAAIWjWFpHFhOusn63elbDJhV2pSNE1inAALeCgACdC9AU6hidi7ZxoANIQQ",
-                        "BQACAgQAAxkBAAIWjmFpHFizWJ3xaA5HrbazUa1wEXRYAALdCgACdC9AU5-FsRyF9vNXIQQ",
-                        "BQACAgQAAxkBAAIWj2FpHFhmNzsTSs4dD7LeqrhDR4IVAALhCgACdC9AU_Q2zPGjZSnKIQQ"
+                        "BQACAgQAAxkBAAIaSmGrPxB5FMsVziNgP2IlihwdJQNBAALqCwACMO9ZUmA1eG8KVsn9IgQ",
+                        "BQACAgQAAxkBAAIaS2GrPxAM0azBMzl4AX7n_ttFg12HAAL-CwACMO9ZUsArkOfyYXnRIgQ",
+                        "BQACAgQAAxkBAAIaTGGrPxCk5HIXrkKgFl0SBGT44iVNAAKNCAACMO9hUhMAAUWwuYq0zCIE",
+                        "BQACAgQAAxkBAAIaTWGrPxDA4boSWf0WpeJ74ft_rogmAALoCgACloroUox47zAloejBIgQ",
+                        "BQACAgQAAxkBAAIaTmGrPxBIvUeydaI5a2RM6gJx63oiAALdCgACdC9AU5-FsRyF9vNXIgQ",
+                        "BQACAgQAAxkBAAIaT2GrPxAYBuOCcpV0KOf7qSIYYQGdAALeCgACdC9AU6hidi7ZxoANIgQ",
+                        "BQACAgQAAxkBAAIaUGGrPxACUHV-MXrgLCsT4n2BhTk3AALfCgACdC9AU8srpyG5-NW8IgQ",
+                        "BQACAgQAAxkBAAIaUWGrPxCcORtCPDSCmy-kc61GAZW2AALgCgACdC9AU2b6Tiki0Wz4IgQ",
+                        "BQACAgQAAxkBAAIaUmGrPxDsoBGnmi9obUjFux52AfJPAALhCgACdC9AU_Q2zPGjZSnKIgQ"
                     ],
                     "photo":[
                     ],
@@ -277,8 +276,15 @@ course = {
                 "yt_tutor":
                 {
                     "message":[
-                        'https://youtu.be/qEfQSL7yVo0',
-                        'https://youtu.be/FD9G_foVk30'
+                        "https://www.youtube.com/watch?v=qEfQSL7yVo0&list=PLZWIYkY1--WqEXqmcBLQAAXgaznzcWCID",
+                        "https://www.youtube.com/watch?v=OB90YvBJeRU&list=PLZWIYkY1--WqEXqmcBLQAAXgaznzcWCID&index=2",
+                        "https://www.youtube.com/watch?v=FD9G_foVk30&list=PLZWIYkY1--WqEXqmcBLQAAXgaznzcWCID&index=3",
+                        "https://www.youtube.com/watch?v=K_fuLjhKM-0&list=PLZWIYkY1--WqEXqmcBLQAAXgaznzcWCID&index=4",
+                        "https://www.youtube.com/watch?v=Ef4jBiYxhe4&list=PLZWIYkY1--WqEXqmcBLQAAXgaznzcWCID&index=5",
+                        "https://www.youtube.com/watch?v=dbRoACnlY24&list=PLZWIYkY1--WqEXqmcBLQAAXgaznzcWCID&index=6",
+                        "https://www.youtube.com/watch?v=dlofrmYy9YU&list=PLZWIYkY1--WqEXqmcBLQAAXgaznzcWCID&index=7",
+                        "https://www.youtube.com/watch?v=ILF4qYcKhI4&list=PLZWIYkY1--WqEXqmcBLQAAXgaznzcWCID&index=8",
+                        "https://www.youtube.com/watch?v=MDXwOGuebus&list=PLZWIYkY1--WqEXqmcBLQAAXgaznzcWCID&index=10"
                     ],
                     "vid":[
                     ],
@@ -302,12 +308,14 @@ course = {
                     "vid":[
                     ],
                     "doc":[
-                        'BQACAgQAAxkBAAIDDGFaBX1lhzF6KQVE3hQpUotRuyRfAALkCQAC70dhUpCGR4U7mzfmIQQ',
-                        'BQACAgQAAxkBAAIDDWFaBX0wDLFyW1efqJSjjGyjlNJEAALlCQAC70dhUmCyFK_LuSp_IQQ',
-                        'BQACAgQAAxkBAAIDDmFaBX0tHXEw1AABfXs30TDBosJWoQACXAsAAoPTqFJAS-CT6v3YAiEE',
-                        'BQACAgQAAxkBAAIDD2FaBX2zHlT46wwGYSA3hzEEKioHAAJdCwACg9OoUq_KX2YguqeEIQQ',
-                        "BQACAgQAAxkBAAIWf2FpHBicrtsdfKVYIejyeuD_sF-lAAIKCgACvRRAU2yhldJsW6syIQQ",
-                        "BQACAgQAAxkBAAIWgGFpHBiYoQHm03wXHzB2EHBPDCzPAAILCgACvRRAU9DsBdOj4ooyIQQ"
+                        "BQACAgQAAxkBAAIaa2GrP4UF_S8UIAY0KmRiJjAY8FnNAALbCQACglphUSdcMMSf_naOIgQ",
+                        "BQACAgQAAxkBAAIabGGrP4WfR3G_V9ZqDozHCauKyPyMAALcCQACglphUYY6rqWSFLTeIgQ",
+                        "BQACAgQAAxkBAAIabWGrP4Xmdhtp0_HJY6GFoC2aQJoPAALdCQACglphUR5nLuKOrYzLIgQ",
+                        "BQACAgQAAxkBAAIabmGrP4Xr_uIpV5Ax56740XNW1DqoAALeCQACglphUXN8w1-89FtzIgQ",
+                        "BQACAgQAAxkBAAIab2GrP4UD2qO1m2qUttuDNoJvhyYyAALfCQACglphUYuiRbH6VrMqIgQ",
+                        "BQACAgQAAxkBAAIacGGrP4VzpXmN9ufgoOjUaPZbJ6VfAALgCQACglphUWfjC_j8Tj4BIgQ",
+                        "BQACAgQAAxkBAAIacWGrP4XDqOgSTmISTN6NnAYt_jm3AALhCQACglphUQ66V-A7u3QkIgQ",
+                        "BQACAgQAAxkBAAIacmGrP4UnjJiXAxjM3tTPLgGA7rlhAALiCQACglphUfYS0oFU4eV8IgQ"
                     ],
                     "photo":[
                     ],
