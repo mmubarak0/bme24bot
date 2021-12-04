@@ -27,8 +27,10 @@ content_types = ["message",
                  "video",
                  ]
 
-
-ADMIN = "coruten"
+# YOUR USER NAME HERE 
+ADMIN = ""
+# EXAMPLE
+# ADMIN = "ki2kid"
 
 
 lisa = []
@@ -586,7 +588,10 @@ def help_command(update: Update, context: CallbackContext) -> None:
 def main() -> None:
     """Run the bot."""
     # Create the Updater and pass it your bot's token.
-    updater = Updater("2043698404:AAFAH3MJwMnD48qliUF76-ROl7c4KKqqQg0")
+    updater = Updater("_YOUR_TOKEN_HERE_")
+    # Example
+    # updater = Updater("43698404:AAFAH3MJwMnD48qliUF76-ROl7c4KKqqQg0")
+
     echo_handler = MessageHandler(Filters.text & (~Filters.command), echo)
 
     updater.dispatcher.add_handler(CommandHandler('start', start))

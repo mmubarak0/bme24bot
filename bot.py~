@@ -140,7 +140,8 @@ def echo(update: Update, context: CallbackContext):
             context.bot.send_message(update.message.chat.id, "file_id: " + str(update.message.message_id))
             lisaid.append(update.message.text)
             context.bot.send_message(update.message.chat.id, "file_type: " + "Text")
-            context.bot.send_message(update.message.chat.id, '"'+'",\n"'.join(lisaid)+'"')
+            if lisaid == "s" or lisaid == "r":
+                context.bot.send_message(update.message.chat.id, '"'+'",\n"'.join(lisaid)+'"')
             # print('"'+'",\n"'.join(lisaid))
             if update.message.text == "r":
                 lisaid.clear()
